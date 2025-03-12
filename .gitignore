@@ -5,3 +5,13 @@ yarn.lock
 form.sef.json
 # Liquid Studio artifact
 Output.xml
+
+# VSCode artifact
+.vscode
+*.vsix
+
+# Каталоги 1С
+src/cf/
+src/cfe/
+src/epf/
+src/erf/
